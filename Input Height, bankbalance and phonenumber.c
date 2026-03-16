@@ -1,8 +1,8 @@
 //program to input Height, bankbalance and phonenumber
 /*
 Description: program to input Height, bankbalance and phonenumber
-Name: ABDISAMAD ALI MOHAMUD
-REG NO:BCS-03-0OO1/2026
+Name: Victor Wambugu 
+REG NO:BCS-05-0074/2025
 */
 
 #include <stdio.h>//pre-processor directive scanf(), printf()
