@@ -1,8 +1,8 @@
 //program to show units offerd this semester
 /*
 Description: program to show units offerd this semester
-Name: ABDISAMAD ALI MOHAMUD
-REG NO:BCS-03-0001/2026
+Name: Victor Wambugu 
+REG NO:BCS-05-0074/2025
 */
 #include <stdio.h>//pre-processor directive scanf(), printf()
 //main function
